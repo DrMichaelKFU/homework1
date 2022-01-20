@@ -1,4 +1,4 @@
-# homework1
+# Homework 1
 Sampling a 1D Signal
 In this homework, you will create a function that performs a series of basic MATLAB tasks. You have taken a MATLAB course before and are expected to know how to create a function to perform basic tasks. In case you are unprepared for this homework, you may reference the MATLAB workshop linked below (and mentioned in the first lecture) to review. All of the MATLAB skills necessary to complete this homework are presented in the MATLAB workshop.
 
